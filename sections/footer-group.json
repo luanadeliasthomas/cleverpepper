@@ -43,21 +43,21 @@
           "type": "link_list",
           "settings": {
             "heading": "Shop",
-            "menu": "footer"
+            "menu": "shop"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
             "heading": "Company",
-            "menu": "footer"
+            "menu": "company"
           }
         },
         "link_list_Dw9TfK": {
           "type": "link_list",
           "settings": {
             "heading": "Info",
-            "menu": "footer"
+            "menu": "info"
           }
         },
         "footer-2": {
