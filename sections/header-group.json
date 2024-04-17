@@ -16,12 +16,13 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "",
-        "show_line_separator": true,
+        "color_scheme": "scheme-dd208371-d9b9-4af4-a1fc-5ff6e25fe4ec",
+        "show_line_separator": false,
         "show_social": false,
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
@@ -33,7 +34,7 @@
         "menu": "main-menu",
         "menu_type_desktop": "mega",
         "sticky_header_type": "on-scroll-up",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "color_scheme": "scheme-1",
         "menu_color_scheme": "",
         "enable_country_selector": true,
