@@ -50,6 +50,7 @@
       "blocks": {
         "image_we4AQT": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Clever-pepper-logo.svg",
             "image_width": 90,
