@@ -1,14 +1,90 @@
 {
   "sections": {
+    "rich_text_bNRK3i": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9rKrC6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>WE ARE<\/p>"
+          }
+        },
+        "heading_Cwr6E3": {
+          "type": "heading",
+          "settings": {
+            "heading": "A modern unisex bib brand for 0-6 years old, founded by Alana and Clara – inspired by our kids and their wild imaginations.",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_9rKrC6",
+        "heading_Cwr6E3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
-        "padding_top": 28,
+        "padding_top": 24,
         "padding_bottom": 28
+      }
+    },
+    "multicolumn_ethpRr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_w8bUnb": {
+          "type": "column",
+          "settings": {
+            "title": "Established 2022",
+            "text": "<p>We’re a modern unisex bib brand for baby & toddlers (we don’t believe in blue is just for boys and pinks are just for girls) . Inspired by our kids and their wild imaginations. We love when creativity runs wild!  Me, Alana Ruas and Clara Lins got on as soon as we met,  with our Dutch-Brazilian families, my background in fashion & product design and Clara biomedicine & fertility, sparked a fusion of arts meets science. Friends meets business partners. Clever Pepper was born.<\/p><h3>Why are we called Clever Pepper?<\/h3><p>In Brazil, 'pimentinha,' means 'little chilli pepper,' it's an affectionate way to describe kids who are active, intelligent, curious and sometimes a bit cheeky. Our name is part rhyming game “Clever”, part Brazilian “Pepper”.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wqfdPk": {
+          "type": "column",
+          "settings": {
+            "title": "Our values",
+            "text": "<p>For us, quality and clever practical designs are extremely important. We want to offer playful and creative products with exclusive prints, delicate, simple designs yet spicy with a lot of personality. That not only does no harm to our little one’s health but also has little impact on the environment.<\/p><p>We value the power of good quality materials so that  it can be passed on from little pepper to little pepper, to encourage consumption in a conscious way. Created so you spend less time washing and wiping and more time playing, bonding, caring for our little ones.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_w8bUnb",
+        "column_wqfdPk"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "main"
+    "rich_text_bNRK3i",
+    "main",
+    "multicolumn_ethpRr"
   ]
 }

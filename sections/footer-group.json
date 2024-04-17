@@ -2,6 +2,15 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "custom_liquid_jcYjTe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p style=\"text-align:center\"> \nMade with ❤️ in the 🇳🇱\n<\/p>",
+        "color_scheme": "scheme-f9206db2-5919-4a28-994f-b1f168d38f5a",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
     "newsletter_hJUtDY": {
       "type": "newsletter",
       "blocks": {
@@ -100,6 +109,7 @@
     }
   },
   "order": [
+    "custom_liquid_jcYjTe",
     "newsletter_hJUtDY",
     "footer"
   ]
