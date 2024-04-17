@@ -231,7 +231,7 @@
     "custom_liquid_hMKVnG": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "Made with ❤️ in the 🇳🇱",
+        "custom_liquid": "<p style=\"text-align:center\"> \nMade with ❤️ in the 🇳🇱\n<\/p>",
         "color_scheme": "scheme-f9206db2-5919-4a28-994f-b1f168d38f5a",
         "padding_top": 32,
         "padding_bottom": 32
