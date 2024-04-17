@@ -228,31 +228,13 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_HyFGyG": {
-      "type": "image-banner",
-      "blocks": {
-        "text_4bp4fc": {
-          "type": "text",
-          "settings": {
-            "text": "Designed with ❤️ in the 🇳🇱",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_4bp4fc"
-      ],
+    "custom_liquid_hMKVnG": {
+      "type": "custom-liquid",
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "custom_liquid": "Made with ❤️ in the 🇳🇱",
         "color_scheme": "scheme-f9206db2-5919-4a28-994f-b1f168d38f5a",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     }
   },
@@ -263,6 +245,6 @@
     "collage",
     "multicolumn",
     "video",
-    "image_banner_HyFGyG"
+    "custom_liquid_hMKVnG"
   ]
 }
