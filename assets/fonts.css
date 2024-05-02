@@ -1,9 +1,17 @@
 @font-face {
-    font-family: 'Providence Sans';
-    src: url('./10b874190a5ec4c6d819ca444eff1108.woff2')
+   font-display: swap;
+    src: url('https://cdn.shopify.com/s/files/1/0698/2792/0095/files/10b874190a5ec4c6d819ca444eff1108.woff2?v=1714650838') format('woff2'),
+    url('https://cdn.shopify.com/s/files/1/0698/2792/0095/files/10b874190a5ec4c6d819ca444eff1108.woff?v=1714650839') format('woff'),
+    url('https://cdn.shopify.com/s/files/1/0698/2792/0095/files/10b874190a5ec4c6d819ca444eff1108.eot?v=1714650839') format('embedded-opentype'),
+    url('https://cdn.shopify.com/s/files/1/0698/2792/0095/files/10b874190a5ec4c6d819ca444eff1108.ttf?v=1714650839') format('truetype');
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: antialiased;
 }
 
 @font-face {
     font-family: 'Karla';
     src: url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: antialiased;
 }
